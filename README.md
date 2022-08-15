@@ -6,7 +6,7 @@
 - 💬 Ask me about anything you want
 - 😄 I have a lot of hobbies
 - ⚡ Fun fact: i'am Nobody
-- 😄 my portfolio : <a href="portfolio.yudaaanugrah.repl.co">portfolio.yudaaanugrah.repl.co</a>
+- 😄 my portfolio : <a href="https://portfolio.yudaaanugrah.repl.co">portfolio.yudaaanugrah.repl.co</a>
 
 
 ### Tech Stack
