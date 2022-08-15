@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-Here are some ideas to get you started:
-
 - 🔭 Hello My Name is Yuda Anugrah, i'm a FrontEnd Web Developer
 - 🌱 I'm a student at Universitas Dinamika Bangsa Jambi, Indonesia
 - 👯 I’m looking to collaborate on a company
