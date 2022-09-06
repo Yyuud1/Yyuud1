@@ -7,7 +7,7 @@
 - 😄 I have a lot of hobbies
 - ⚡ Fun fact: i'am Nobody
 - 😄 my portfolio : <a href="https://portfolio.yudaaanugrah.repl.co" target="blank">portfolio.yudaaanugrah.repl.co</a> => masih dalam progress
-- 💬 my LinkedIn : <a href="linkedin.com/in/yuda-anugrah-6314bb24b">LinkedIn</a>
+- 💬 my LinkedIn : <a href="https://www.linkedin.com/in/yuda-anugrah-6314bb24b">LinkedIn</a>
 
 
 ### Tech Stack
