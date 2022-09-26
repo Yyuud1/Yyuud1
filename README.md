@@ -1,8 +1,7 @@
-### Hi there 👋
+## Hi there 👋
 
-- 🔭 Hello My Name is Yuda Anugrah, i'm a FrontEnd Web Developer
-- 🌱 I'm a student at Universitas Dinamika Bangsa Jambi, Indonesia
-- 👯 I’m looking to collaborate on a company
+Hello My Name is Yuda Anugrah, i'm a FrontEnd Web Developer. I'm a student at Universitas Dinamika Bangsa Jambi, Indonesia
+
 - 💬 Ask me about anything you want
 - 😄 I have a lot of hobbies
 - ⚡ Fun fact: i'am Nobody
@@ -10,7 +9,7 @@
 - 💬 my LinkedIn : <a href="https://www.linkedin.com/in/yuda-anugrah-6314bb24b">LinkedIn</a>
 
 
-### Tech Stack
+## 📚 Tech Stack
 <a title = "HTML5" href="https://www.w3.org/html/" target="_blank"><img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" /></a>
 
 <a title = "CSS3" href="https://www.w3schools.com/css/" target="_blank"><img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" /></a>
@@ -21,11 +20,11 @@
   <br>
   <br>
 
-### Github Statistic
-<p align="left">
-<a href="https://github.com/Yyuud1">
-  <img width="400px" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Yyuud1&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img width="400px" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Yyuud1&layout=compact&langs_count=8&theme=algolia"/>
-</a>
-</p>
+## Github Statistic
+<img align="left" height='130px' src="https://github-readme-stats.vercel.app/api?username=Yyuud1&show_icons=true&include_all_commits=true&line_height=21" />
+<img align="" height='130px' src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yyuud1&layout=compact" />
+
+### 📫 &nbsp; How to reach me:
+<a href="https://www.linkedin.com/in/yuda-anugrah-6314bb24b"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/></a> &nbsp;
+<a href="mailto:yudaaanugrah1@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a> &nbsp;
 
