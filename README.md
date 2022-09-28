@@ -5,8 +5,7 @@ Hello My Name is Yuda Anugrah, i'm a FrontEnd Web Developer. I'm a student at Un
 - 💬 Ask me about anything you want
 - 😄 I have a lot of hobbies
 - ⚡ Fun fact: i'am Nobody
-- 😄 my portfolio : <a href="https://portfolio.yudaaanugrah.repl.co" target="blank">portfolio.yudaaanugrah.repl.co</a> => masih dalam progress
-- 💬 my LinkedIn : <a href="https://www.linkedin.com/in/yuda-anugrah-6314bb24b">LinkedIn</a>
+- 💬 my portfolio : <a href="https://portfolio.yudaaanugrah.repl.co" target="blank">portfolio.yudaaanugrah.repl.co</a> => masih dalam progress
 
 
 ## 📚 Tech Stack
