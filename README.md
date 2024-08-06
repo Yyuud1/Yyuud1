@@ -20,7 +20,6 @@ Hello My Name is Yuda Anugrah, i'm a FrontEnd Web Developer. I'm a student at Un
   <br>
 
 ## Github Statistic
-<img align="left" height='130px' src="https://github-readme-stats.vercel.app/api?username=Yyuud1&show_icons=true&include_all_commits=true&line_height=21" />
 <img align="" height='130px' src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yyuud1&layout=compact" />
 
 ### 📫 &nbsp; How to reach me:
