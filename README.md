@@ -13,8 +13,6 @@ Hello My Name is Yuda Anugrah, i'm a FrontEnd Web Developer. I'm a student at Un
 
 <a href="#"><img align="left" alt="JavaScript" title="JavaScript" width="21px" src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" /></a>  
 
- <a href="https://nodejs.org/"><img align="left" alt="NodeJS" title="NodeJS" width="21px" src="https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png" /></a>
-
 <a href="https://git-scm.com/" target="_blank"> <img align="left" alt="git" width="26px" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"/> </a>
   <br>
   <br>
