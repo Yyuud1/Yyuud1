@@ -21,10 +21,10 @@ Hello My Name is Yuda Anugrah, i'm a FrontEnd Web Developer. I'm a student at Un
 <img align="" height='130px' src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yyuud1&layout=compact" />
 
 ## Grade
-![JavaScript](https://img.shields.io/badge/JavaScript-A%2B-green)
+![JavaScript](https://img.shields.io/badge/JavaScript-A-green)
 ![HTML](https://img.shields.io/badge/HTML-A-blue)
-![CSS](https://img.shields.io/badge/CSS-B-orange)
-![Git](https://img.shields.io/badge/Git-C-red)
+![CSS](https://img.shields.io/badge/CSS-A-orange)
+![Git](https://img.shields.io/badge/Git-A-red)
 
 ### 📫 &nbsp; How to reach me:
 <a href="https://www.linkedin.com/in/yuda-anugrah-6314bb24b"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/></a> &nbsp;
